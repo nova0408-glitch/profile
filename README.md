@@ -32,3 +32,8 @@ email: leverianbeatus@gmail.com
          <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
   </p>
+  <p>
+ <summary><h2>📊 Stats and Activity</h2></summary>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=nova0408-glitch)](https://git.io/streak-stats)
+  </p>
+ 
