@@ -33,7 +33,15 @@ email: leverianbeatus@gmail.com
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
   </p>
   <p>
- <summary><h2>📊 Stats and Activity</h2></summary>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nova0408-glitch&theme=dracula)](https://git.io/streak-stats)
-  </p>
- 
+| Live Activity
+
+<p align="left">
+  <a href="https://github.com/nova0408-glitch">
+    <img src="https://github-readme-stats.vercel.app/api?username=nova0408-glitch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=600" alt="Total Commits" height="180px" />
+  </a>
+  <a href="https://github.com/nova0408-glitch">
+  
+  </a>
+</p>
+
+
