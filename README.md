@@ -34,6 +34,6 @@ email: leverianbeatus@gmail.com
   </p>
   <p>
  <summary><h2>📊 Stats and Activity</h2></summary>
- [![GitHub Streak](https://streak-stats.demolab.com/?user=nova0408-glitch)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nova0408-glitch&theme=dracula)](https://git.io/streak-stats)
   </p>
  
