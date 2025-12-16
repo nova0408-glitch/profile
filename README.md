@@ -9,7 +9,7 @@ Quick facts 🧾
 💬 Ask me about: testing, CI/CD, and writing great READMEs<br>
 📫 How to reach me: 
 
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leverianbeatus@gmail.com?subject=Inquiry%20from%20GitHub&body=Hello%20nova0408-glitch,)
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leverianbeatus@gmail.com?subject=Contact%20from%20GitHub)
 
 ---
 
@@ -19,6 +19,7 @@ Quick facts 🧾
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
         <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
   </p>
+  ---
  <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
@@ -26,7 +27,7 @@ Quick facts 🧾
        <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
   </p>
-
+---
   <h3>💻 Software and Tools</h3>
 
   <p>
@@ -35,6 +36,7 @@ Quick facts 🧾
          <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
   </p>
+  ---
   <p>
 | Live Activity
 
