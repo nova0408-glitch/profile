@@ -3,10 +3,10 @@ Hi — I'm BEATUS LEVERIAN, a full‑stack developer who loves building accessib
 
 Quick facts 🧾
 
-🔭 I’m currently learning: feature-rich web apps and automation tools
-🌱 I’m learning: advanced JAVA & JS patterns and infrastructure as code
-👯 I’m open to: collaborating on open source and mentorship
-💬 Ask me about: testing, CI/CD, and writing great READMEs
+🔭 I’m currently learning: feature-rich web apps and automation tools<br>
+🌱 I’m learning: advanced JAVA & JS patterns and infrastructure as code<br>
+👯 I’m open to: collaborating on open source and mentorship<br>
+💬 Ask me about: testing, CI/CD, and writing great READMEs<br>
 📫 How to reach me: 
 email: leverainbeatus@gmail.com
 <details> <summary>Top skills 🛠️</summary>  
