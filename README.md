@@ -1,7 +1,7 @@
 # About me 👋
 Hi — I'm BEATUS LEVERIAN, a full‑stack developer who loves building accessible and learning new tools. I specialize in JavaScript, HTML,CSS and Python, and I care about collaboration, clean code, and thoughtful documentation. ✨
 
-##Quick facts 🧾
+#Quick facts 🧾
 🔭 I’m currently learning: feature-rich web apps and automation tools
 🌱 I’m learning: advanced JAVA & JS patterns and infrastructure as code
 👯 I’m open to: collaborating on open source and mentorship
