@@ -9,9 +9,10 @@ Quick facts 🧾
 💬 Ask me about: testing, CI/CD, and writing great READMEs<br>
 📫 How to reach me: 
 email: leverianbeatus@gmail.com
-<details> <summary>Top skills 🛠️</summary>  
-Frontend : HTML,JavaScript, CSS.<br>
-Backend : Python, Node.js.<br>
-DevOps : GitHub Actions.<br>
-</details>
 
+<h3>🧰 Frameworks and Libraries</h3>
+
+  <p>
+      <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+        <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+  </p>
