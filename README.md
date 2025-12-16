@@ -8,7 +8,7 @@ Quick facts 🧾
 👯 I’m open to: collaborating on open source and mentorship<br>
 💬 Ask me about: testing, CI/CD, and writing great READMEs<br>
 📫 How to reach me: 
-email: leverainbeatus@gmail.com
+email: leverianbeatus@gmail.com
 <details> <summary>Top skills 🛠️</summary>  
 Frontend : JavaScript, CSS.<br>
 Backend : Python, Node.js.<br>
