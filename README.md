@@ -10,7 +10,7 @@ Quick facts 🧾
 📫 How to reach me: 
 email: leverianbeatus@gmail.com
 <details> <summary>Top skills 🛠️</summary>  
-Frontend : JavaScript, CSS.<br>
+Frontend : HTML,JavaScript, CSS.<br>
 Backend : Python, Node.js.<br>
 DevOps : GitHub Actions.<br>
 </details>
