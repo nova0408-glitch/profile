@@ -8,7 +8,10 @@ Quick facts 🧾
 👯 I’m open to: collaborating on open source and mentorship<br>
 💬 Ask me about: testing, CI/CD, and writing great READMEs<br>
 📫 How to reach me: 
-email: leverianbeatus@gmail.com
+
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leverianbeatus@gmail.com?subject=Inquiry%20from%20GitHub&body=Hello%20nova0408-glitch,)
+
+---
 
 <h3>🧰 Frameworks and Libraries</h3>
 
