@@ -9,9 +9,11 @@ Quick facts 🧾
 💬 Ask me about: testing, CI/CD, and writing great READMEs<br>
 📫 How to reach me: 
 
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leverianbeatus@gmail.com?subject=Contact%20from%20GitHub)
-
----
+<div class="contact-info">
+  <a href="mailto:leverianbeatus@gmail.com?subject=Contact%20from%20ORION" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
+  </a>
+</div>
 
 <h3>🧰 Frameworks and Libraries</h3>
 
