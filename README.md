@@ -8,20 +8,15 @@ Quick facts 🧾
 👯 I’m open to: collaborating on open source and mentorship<br>
 💬 Ask me about: testing, CI/CD, and writing great READMEs<br>
 📫 How to reach me: 
-
-<div class="contact-info">
-  <a href="mailto:leverianbeatus@gmail.com?subject=Contact%20from%20ORION" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
-  </a>
-</div>
-
+<br>
+<b>leverianbeatus@gmail.com<b>
 <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
         <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
   </p>
-  ---
+  
  <h3>🗄️ Databases and Cloud Hosting</h3>
 
   <p>
@@ -29,7 +24,7 @@ Quick facts 🧾
        <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
   </p>
----
+
   <h3>💻 Software and Tools</h3>
 
   <p>
@@ -39,7 +34,7 @@ Quick facts 🧾
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
      <a href="#"><img alt="Moho 14" src="https://img.shields.io/badge/Moho%2014-FFCC00.svg?logo=moho&logoColor=black"></a>
   </p>
-  ---
+  
   <p>
 | Live Activity
   </p>
