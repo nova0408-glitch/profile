@@ -36,15 +36,13 @@ Quick facts 🧾
   </p>
   
 <p>
- # Hi, I'm nova0408-glitch 👋
 
-Always shipping. Turning ideas into deployed projects. Master of workflows and clean code.
-
-# GitHub Stats 🚀
+ GitHub Stats 🚀
 
 ![nova0408-glitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=nova0408-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nova0408-glitch&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nova0408-glitch&theme=dark&hide_border=false&layout=compact&include_all_commits=true&count_private=true)<br/>
+
 ---
 [![Profile Views](https://visitcount.itsvg.in/api?id=nova0408-glitch&icon=0&color=5)](https://visitcount.itsvg.in)
 
