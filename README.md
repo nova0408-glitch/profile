@@ -35,17 +35,18 @@ Quick facts 🧾
      <a href="#"><img alt="Moho 14" src="https://img.shields.io/badge/Moho%2014-FFCC00.svg?logo=moho&logoColor=black"></a>
   </p>
   
-  <p>
-| Live Activity
-  </p>
+<p>
+ # Hi, I'm nova0408-glitch 👋
 
-<p align="left">
-  <a href="https://github.com/nova0408-glitch">
-    <img src="https://github-readme-stats.vercel.app/api?username=nova0408-glitch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=600" alt="Total Commits" height="180px" />
-  </a>
-  <a href="https://github.com/nova0408-glitch">
-  
-  </a>
+Always shipping. Turning ideas into deployed projects. Master of workflows and clean code.
+
+# GitHub Stats 🚀
+
+![nova0408-glitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=nova0408-glitch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=nova0408-glitch&theme=dark&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nova0408-glitch&theme=dark&hide_border=false&layout=compact&include_all_commits=true&count_private=true)<br/>
+---
+[![Profile Views](https://visitcount.itsvg.in/api?id=nova0408-glitch&icon=0&color=5)](https://visitcount.itsvg.in)
+
+<!-- Add more sections like skills, projects, contact later! -->
 </p>
-
-
