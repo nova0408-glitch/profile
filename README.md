@@ -23,6 +23,7 @@ Quick facts 🧾
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
        <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+    <a href="https://www.apachefriends.org/"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?logo=xampp&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
