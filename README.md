@@ -33,8 +33,11 @@ Quick facts 🧾
         <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
          <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-     <a href="#"><img alt="Moho 14" src="https://img.shields.io/badge/Moho%2014-FFCC00.svg?logo=moho&logoColor=black"></a>
-  </p>
+     <a href="#"><img alt="Moho 14" src="https://img.shields.io/badge/Moho%2014-FFCC00.svg?logo=moho&logoColor=black"></a><br>
+     <a href="#"><img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white"></a>
+     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></a>
+     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white"></a>
+  
   
   <p>
 | Live Activity
